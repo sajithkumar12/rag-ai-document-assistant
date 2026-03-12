@@ -1,8 +1,6 @@
-
-============================================================
 PRIVATE RAG AI DOCUMENT ASSISTANT - COMPLETE PROJECT GUIDE
 Author: Sajith Kumar
-============================================================
+
 
 This file contains EVERYTHING needed to understand and run the project:
 
